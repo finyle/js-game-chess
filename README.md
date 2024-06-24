@@ -4,6 +4,7 @@
 JavaScript 写的的中国象棋程序
 
 #### 软件架构
+```
 - css: 样式文件
 
 - img: 象棋图标文件
@@ -17,7 +18,7 @@ JavaScript 写的的中国象棋程序
 - - store.js
 
 - index: html入口文件
-
+```
 #### 安装教程
 
 浏览器直接打开index.html 文件即可
